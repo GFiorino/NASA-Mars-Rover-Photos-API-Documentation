@@ -8,7 +8,7 @@ This project provides comprehensive documentation for the NASA Mars Rover Photos
 The Mars Rover Photos API serves as an exciting resource for developers, space enthusiasts, and educators who wish to explore Mars through the lens of these robotic explorers. This documentation aims to make it easy for anyone to start retrieving and using Martian photos in their applications or projects.
 
 ## Project Motivation
-The Mars Rover Photos API offers a unique opportunity to explore Mars through the eyes of NASA's rovers. This project aims to make accessing these images easier for developers, educators, and space enthusiasts, while also showcasing technical writing and API documentation skills.
+The Mars Rover Photos API offers a unique opportunity to explore Mars through the eyes of NASA's rovers. This project aims to make accessing these images easier for developers, educators, and space enthusiasts, while also showcasing my technical writing and API documentation skills.
 
 ## Features
 - Step-by-step instructions for authenticating and making API requests.
