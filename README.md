@@ -31,3 +31,15 @@ The Mars Rover Photos API offers a unique opportunity to explore Mars through th
 ## Live Demo
 Coming soon: A live example showcasing the use of the Mars Rover Photos API to display recent images from Mars.
 
+## Getting Started
+To get started with the Mars Rover Photos API, follow these steps:
+1. [Obtain your API key](https://api.nasa.gov/).
+2. Use the example requests provided in this documentation.
+3. Refer to the troubleshooting section if you encounter any issues.
+
+## Credits
+- Images and data provided by [NASA's Mars Rover Photos API](https://api.nasa.gov/).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
