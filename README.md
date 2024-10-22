@@ -17,14 +17,16 @@ The Mars Rover Photos API offers a unique opportunity to explore Mars through th
 - Troubleshooting tips for handling errors.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Authentication](#authentication)
-- [Example Request](#example-request)
-- [Parameters](#parameters)
-- [Response Structure](#response-structure)
-- [Common Use Cases](#common-use-cases)
-- [Troubleshooting](#troubleshooting)
-
+- [Introduction](#introduction)
+- [Project Motivation](#project-motivation)
+- [Features](#features)
+- [Table of Contents](#table-of-contents)
+- [Project Status](#project-status)
+- [Live Demo](#live-demo)
+- [Getting Started](#getting-started)
+- [Credits](#credits)
+- [License](#license)
+  
 ## Project Status
 ![Project Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
