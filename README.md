@@ -57,7 +57,7 @@ This documentation provides developers with a comprehensive guide to retrieving 
 ## Example Usage
 To retrieve photos taken by the Curiosity rover on Martian sol 1000, make a GET request to the `/rovers/curiosity/photos` endpoint with your API key. The response will include image URLs, camera details, and additional metadata about the photos taken on that day.
 
-![Sample Mars Rover Photo](https://example.com/sample_rover_photo.jpg)  
+![Sample Mars Rover Photo](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation/blob/main/images/Rover-Mars-photo-of-the-day.jpeg?raw=true)  
 *Image credit: NASA*
 
 ## Sample JSON Response
