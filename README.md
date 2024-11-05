@@ -27,32 +27,7 @@ This documentation provides developers with a comprehensive guide to retrieving 
   ```http
   GET https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY
 
-- **Example Response**:
-```json
- {
-  "photos": [
-    {
-      "id": 102693,
-      "sol": 1000,
-      "camera": {
-        "id": 20,
-        "name": "FHAZ",
-        "rover_id": 5,
-        "full_name": "Front Hazard Avoidance Camera"
-      },
-      "img_src": "http://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/01000/opgs/edr/fcam/FLB_486456045EDR_F0481570FHAZ00323M_.JPG",
-      "earth_date": "2015-05-30",
-      "rover": {
-        "id": 5,
-        "name": "Curiosity",
-        "landing_date": "2012-08-06",
-        "launch_date": "2011-11-26",
-        "status": "active"
-      }
-    }
-  ]
-}
-```
+
 
 ## Example Usage
 To retrieve photos taken by the Curiosity rover on Martian sol 1000, make a GET request to the `/rovers/curiosity/photos` endpoint with your API key. The response will include image URLs, camera details, and additional metadata about the photos taken on that day.
@@ -61,7 +36,7 @@ To retrieve photos taken by the Curiosity rover on Martian sol 1000, make a GET 
 *Image credit: NASA*
 
 ### API Request-Response Flow
-![API Request-Response Flow]()  
+![API Request-Response Flow](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation/blob/main/Api-User-Server.png?raw=true)  
 *Diagram illustrating the interaction between the User Application and NASA API Server.*
 
 ## Sample JSON Response
