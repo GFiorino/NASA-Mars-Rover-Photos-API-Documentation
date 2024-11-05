@@ -60,6 +60,10 @@ To retrieve photos taken by the Curiosity rover on Martian sol 1000, make a GET 
 ![Sample Mars Rover Photo](https://github.com/GFiorino/NASA-Mars-Rover-Photos-API-Documentation/blob/main/images/Rover-Mars-photo-of-the-day.jpeg?raw=true)  
 *Image credit: NASA*
 
+### API Request-Response Flow
+![API Request-Response Flow]()  
+*Diagram illustrating the interaction between the User Application and NASA API Server.*
+
 ## Sample JSON Response
 Below is an example JSON response you can expect from the API:
 
