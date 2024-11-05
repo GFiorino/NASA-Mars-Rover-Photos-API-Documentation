@@ -26,6 +26,7 @@ This documentation provides developers with a comprehensive guide to retrieving 
 - **Example Request**:
   ```http
   GET https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY
+  ```
 
 
 
@@ -72,4 +73,5 @@ Below is an example JSON response you can expect from the API:
 
 ## Troubleshooting Tips
 - **Authentication Errors**: If you encounter authentication issues, verify that your API key is correctly included in the `Authorization` header of your requests.
-- **Empty Responses**: If no photos are returned, check that you’ve used the correct `rover` name and a valid `sol` parameter. Not all Martian days have photos available.
+  
+- **Empty Responses**: If no photos are returned, check that you’ve used the correct `rover` name and a valid `sol` parameter. Note that not all Martian days have photos available, so try different sol values if needed.
